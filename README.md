@@ -1,4 +1,4 @@
-# SendCloud Integration Plugin README FILE
+# SendCloud Integration Plugin README
 
 
 ## Introduction
