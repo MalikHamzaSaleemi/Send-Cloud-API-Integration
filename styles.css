@@ -1,0 +1,16 @@
+.custom-radio {
+    display: block;
+    margin-bottom: 15px;
+}
+
+.radio-img img {
+    width: 400px; /* Adjust the max-width as needed */
+    height: auto;
+    display: block;
+    margin-bottom: 5px;
+}
+
+.save-button {
+    display: block;
+    margin-top: 15px;
+}
