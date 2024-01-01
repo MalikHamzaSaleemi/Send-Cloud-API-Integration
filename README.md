@@ -28,7 +28,6 @@ To display the list of carriers chosen by the seller in the vendor dashboard, us
 
 ```php
  echo do_shortcode('[custom_shipping_form]');
-
 ```
 
 ### Override or Display Shipping Price in WooCommerce
